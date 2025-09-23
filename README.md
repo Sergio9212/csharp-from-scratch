@@ -1,1 +1,1 @@
-# csharp-from-scratch
+# training csharp-from-scratch
